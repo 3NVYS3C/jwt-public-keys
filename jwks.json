@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "kty": "oct"
+      "kty": "oct",
       "alg": "HS256",
       "kid": "key-1",
       "k": "YlhsZmMzVndaWEpmYzJWamNtVjBYM0JvY21GelpWOHhNak0="
