@@ -3,7 +3,7 @@
     {
       "alg": "HS256",
       "kid": "key-1",
-      "k": "bXlfc3VwZXJfc2VjcmV0X3BocmFzZV8xMjM"
+      "k": "YlhsZmMzVndaWEpmYzJWamNtVjBYM0JvY21GelpWOHhNak0="
     }
   ]
 }
